@@ -1,0 +1,17 @@
+Sensor, Electrode, MCU Pin, Package Pin
+keypadSensor,RX00,CAP0.0,23
+keypadSensor,RX04,CAP0.1,24
+sliderSensor,RX00,CAP0.2,25
+wheelSensor,RX00,CAP0.3,26
+keypadSensor,RX01,CAP1.0,27
+keypadSensor,RX05,CAP1.1,28
+sliderSensor,RX01,CAP1.2,29
+wheelSensor,RX01,CAP1.3,30
+keypadSensor,RX02,CAP2.0,32
+keypadSensor,RX06,CAP2.1,33
+sliderSensor,RX02,CAP2.2,34
+wheelSensor,RX02,CAP2.3,35
+keypadSensor,RX03,CAP3.0,36
+keypadSensor,RX07,CAP3.1,37
+sliderSensor,RX03,CAP3.2,38
+proximitySensor,RX00,CAP3.3,39
