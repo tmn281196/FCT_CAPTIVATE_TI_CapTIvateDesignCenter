@@ -1,0 +1,31 @@
+#C:\Users\Com26\CapTIvateDesignCenter_1_83_00_08\CapTIvateDesignCenterWorkspace\TI_Examples\ME_LM/.plotProps/MSP430FR2633IDA_TimeEstPlot.props Plotter Data
+#Tue Mar 24 18:16:46 ICT 2026
+--Scan\ Period--=on
+xlabel=Time
+ylabel=Channel Data
+labelFont=helvetica-BOLD-12
+Signal.alias.BTN06=0.440ms
+Signal.alias.--Sensors\ Total--=1.950ms
+Signal.alias.BTN05=0.680ms
+Signal.alias.BTN04=0.170ms
+Signal.alias.BTN03=0.660ms
+Signal.alias.BTN02=0.850ms
+Signal.alias.BTN01=0.340ms
+Signal.alias.BTN00=19.712ms
+titleFont=helvetica-BOLD-24
+BTN06=on
+xmin=0.000000
+BTN05=on
+BTN04=on
+xmax=16.900000
+BTN03=on
+BTN02=on
+BTN01=on
+legendFont=helvetica-BOLD-14
+Signal.alias.--Scan\ Period--=13.000ms
+BTN00=on
+ymin=0.000000
+ymax=2.000000
+graphtype=PtsCon
+persistence=2000
+--Sensors\ Total--=on
